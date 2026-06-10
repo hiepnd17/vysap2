@@ -1,0 +1,6 @@
+{
+  "name": "VYSAP 2.0",
+  "description": "Hệ sinh thái Tri thức và Sản phẩm Nông nghiệp Bền vững",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
